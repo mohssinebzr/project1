@@ -243,3 +243,27 @@ select{
 option{
     color:black;
 }
+
+.foter{
+    margin-top: 30px ;
+}
+
+.h1-foter{
+    margin-left: 35%;
+    font-size: large;
+}
+
+.btn-foter{
+    margin-left: 40%;
+    font-size: large;
+    background-color: #3d83df;
+    color: white;
+    border-color: #3d83df;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.copyright {
+    margin-left: 43%;
+    margin-top: 50px;
+}
